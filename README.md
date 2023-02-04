@@ -7,9 +7,9 @@
   </h3>
 </div>
   
-✨ I have passion for learning and an eye for details.
+✨ I have a passion for learning and an eye for details.
 
-🔭 In my free time I like to study small new topics on Udemy.
+🔭 In my free time I like to discover new topics on Udemy.
 
 👨‍💻 A Wix-like website builder I developed - [Webix](https://webix.onrender.com/).
 
