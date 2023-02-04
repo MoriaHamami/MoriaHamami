@@ -15,12 +15,8 @@
 
 Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=javascript&theme=light)](https://www.javascript.com/)
+[![My Skills](https://skillicons.dev/icons?i=js&theme=light)](https://www.javascript.com/)
 [![My Skills](https://skillicons.dev/icons?i=html&theme=light)](https://www.html.com/)
-
-
-[![My Skills](https://skillicons.dev/icons?i=html5&theme=light)](https://www.html.com/)
-[![My Skills](https://skillicons.dev/icons?i=css3&theme=light)](https://www.css.com/)
 [![My Skills](https://skillicons.dev/icons?i=css&theme=light)](https://www.css.com/)
 [![My Skills](https://skillicons.dev/icons?i=py&theme=light)](https://www.python.org/)
 [![My Skills](https://skillicons.dev/icons?i=sass&theme=light)](https://sass-lang.com/)
