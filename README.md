@@ -29,16 +29,16 @@ Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=redux&theme=light)](https://www.redux.org/)
 [![My Skills](https://skillicons.dev/icons?i=git&theme=light)](https://git-scm.com/)
 
-📫 You can reach me @ [moriahamami@gmail.com](moriahamami@gmail.com).
-⚡ You can also find me on [linkedin](https://www.linkedin.com/in/moriahamami/).
-
 <div id="stats" align="center">
   
-  # :fire: My Stats :
+  🔥 My Stats :
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=moriahamami)](https://git.io/streak-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moriahamami)](https://github.com/anuraghazra/github-readme-stats)
   
  </div>
+ 
+ 📫 You can reach me @ [moriahamami@gmail.com](moriahamami@gmail.com).
+⚡ You can also find me on [linkedin](https://www.linkedin.com/in/moriahamami/).
 
