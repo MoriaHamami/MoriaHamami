@@ -7,9 +7,6 @@
   </h3>
 </div>
   
-  
-  
-  
 ✨ I have passion for learning and an eye for details.
 
 🔭 In my free time I like to study small new topics on Udemy.
@@ -35,13 +32,13 @@ Languages and Tools:
 📫 You can reach me @ [moriahamami@gmail.com](moriahamami@gmail.com).
 ⚡ You can also find me on [linkedin](https://www.linkedin.com/in/moriahamami/).
 
----
-
-## :fire: My Stats :
-
-<div id="header" align="center">
+<div id="stats" align="center">
+  
+  # :fire: My Stats :
+  
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=moriahamami)](https://git.io/streak-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moriahamami)](https://github.com/anuraghazra/github-readme-stats)
+  
  </div>
 
