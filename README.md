@@ -1,20 +1,3 @@
-### Hi there 👋
-
-<!--
-**MoriaHamami/MoriaHamami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi, I'm Moria Hamami 👋
 ## I am a Full Stack Developer
 
@@ -25,10 +8,20 @@ Here are some ideas to get you started:
 👨‍💻 A Wix-like website builder I developed - [Webix](https://webix.onrender.com/).
 
 Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=html&theme=light)](https://skillicons.dev)
 
-typescript javascript mongodb nodejs postman react redux sass tailwind vuejs css3 express figma git html5
+[![My Skills](https://skillicons.dev/icons?i=javascript&theme=light)](https://www.javascript.com/)
+[![My Skills](https://skillicons.dev/icons?i=html&theme=light)](https://www.html.com/)
+[![My Skills](https://skillicons.dev/icons?i=html5&theme=light)](https://www.html.com/)
+[![My Skills](https://skillicons.dev/icons?i=css3&theme=light)](https://www.css.com/)
+[![My Skills](https://skillicons.dev/icons?i=css&theme=light)](https://www.css.com/)
+[![My Skills](https://skillicons.dev/icons?i=sass&theme=light)](https://sass-lang.com/)
+[![My Skills](https://skillicons.dev/icons?i=postman&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vuejs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=redux&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git&theme=light)](https://skillicons.dev)
 
 📫 You can reach me @ [moriahamami@gmail.com](moriahamami@gmail.com).
 ⚡ You can also find me on [linkedin](https://www.linkedin.com/in/moriahamami/).
