@@ -1,8 +1,11 @@
-# Hi, I'm Moria Hamami 👋
-## I am a Full Stack Developer
-<h1>
-  hey there
-</h1>
+<div id="header" align="center">
+  <h1>
+    Hi, I'm Moria Hamami 👋
+  </h1>
+  <h3>
+    I am a Full Stack Developer
+  </h3>
+</div>
   
 ✨ I have passion for learning and an eye for details.
 
@@ -28,4 +31,13 @@ Languages and Tools:
 
 📫 You can reach me @ [moriahamami@gmail.com](moriahamami@gmail.com).
 ⚡ You can also find me on [linkedin](https://www.linkedin.com/in/moriahamami/).
+
+---
+
+## :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=moriahamami
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=moriahamami)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moriahamami)](https://github.com/anuraghazra/github-readme-stats)
 
