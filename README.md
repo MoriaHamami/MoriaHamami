@@ -28,15 +28,15 @@ Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=redux&theme=light)](https://www.redux.org/)
 [![My Skills](https://skillicons.dev/icons?i=git&theme=light)](https://git-scm.com/)
 
-<!-- 🔥 My Stats :
+🔥 My Stats :
 
 <div id="stats" align="center">
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=moriahamami)](https://git.io/streak-stats)
+<!--   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=moriahamami)](https://git.io/streak-stats) -->
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moriahamami)](https://github.com/anuraghazra/github-readme-stats)
   
- </div> -->
+ </div>
  
  📫 You can reach me @ [moriahamami@gmail.com](moriahamami@gmail.com).
 ⚡ You can also find me on [linkedin](https://www.linkedin.com/in/moriahamami/).
