@@ -35,7 +35,8 @@ Languages and Tools:
 <!--   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=moriahamami)](https://git.io/streak-stats) -->
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moriahamami)](https://github.com/anuraghazra/github-readme-stats)
-  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=10)
+
  </div>
  
  📫 You can reach me @ [moriahamami@gmail.com](moriahamami@gmail.com).
