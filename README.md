@@ -19,6 +19,7 @@ Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=html&theme=light)](https://www.html.com/)
 [![My Skills](https://skillicons.dev/icons?i=css&theme=light)](https://www.css.com/)
 [![My Skills](https://skillicons.dev/icons?i=py&theme=light)](https://www.python.org/)
+[![My Skills](https://skillicons.dev/icons?i=py&theme=light)](https://www.cpp.com/)
 [![My Skills](https://skillicons.dev/icons?i=sass&theme=light)](https://sass-lang.com/)
 [![My Skills](https://skillicons.dev/icons?i=postman&theme=light)](https://www.postman.com/)
 [![My Skills](https://skillicons.dev/icons?i=nodejs&theme=light)](https://www.nodejs.org/)
