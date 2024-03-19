@@ -20,6 +20,7 @@ Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=css&theme=light)](https://www.css.com/)
 [![My Skills](https://skillicons.dev/icons?i=py&theme=light)](https://www.python.org/)
 [![My Skills](https://skillicons.dev/icons?i=cpp&theme=light)](https://cplusplus.com/)
+[![My Skills](https://skillicons.dev/icons?i=c&theme=light)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/)
 [![My Skills](https://skillicons.dev/icons?i=sass&theme=light)](https://sass-lang.com/)
 [![My Skills](https://skillicons.dev/icons?i=postman&theme=light)](https://www.postman.com/)
